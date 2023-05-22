@@ -1,0 +1,37 @@
+.home-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  margin-bottom: 20px;
+}
+.home-image {
+  margin-top: 20px;
+  height: 300px;
+  width: 400px;
+  border-radius: 20px;
+}
+.content {
+  padding-top: 40px;
+}
+.description {
+  align-self: flex-start;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 60px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 900;
+  color: #00004d;
+}
+.list-items {
+  padding-left: 15px;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #00004d;
+  font-weight: 400;
+}

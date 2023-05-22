@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #ffffff;
+  padding: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+}
+.health-image {
+  height: 50px;
+  width: 50px;
+}
+.header-heading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 900;
+  color: #00004d;
+  padding-top: 5px;
+}
+.title {
+  color: #191970;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 900;
+  padding-left: 15px;
+  text-decoration: none;
+}
+.header-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 15px;
+}

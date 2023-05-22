@@ -1,0 +1,35 @@
+.food-habit-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.food-heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 900;
+  color: #00004d;
+  align-self: flex-start;
+  padding-left: 35px;
+  padding-top: 40px;
+}
+.food-paragraph {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #00004d;
+  font-weight: 400;
+  align-self: flex-start;
+  padding-left: 70px;
+  padding-bottom: 60px;
+  padding-top: 40px;
+}
+.Image {
+  margin-top: 50px;
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
+.food-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
